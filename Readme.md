@@ -1,5 +1,8 @@
 Here are the Screeshots of the Navigation bar
 
-![1](https://github.com/user-attachments/assets/1eedee76-55d6-4b25-af53-c25db30a6a9f)
+![Rectangular Screenshot](https://github.com/Dhiraj73Ray/Navigation-bar/blob/main/SS/1.PNG)
 
-![Capture](https://github.com/user-attachments/assets/10b0b278-aff4-49cf-a8c5-84db2dd3afe7)
+<p align="center">
+  <img src="https://github.com/Dhiraj73Ray/Navigation-bar/blob/main/SS/2.PNG" width="45%">
+  <img src="https://github.com/Dhiraj73Ray/Navigation-bar/blob/main/SS/3.PNG" width="45%">
+</p>
